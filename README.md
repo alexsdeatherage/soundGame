@@ -4,7 +4,7 @@
 
 Submitted by: **Alex Deatherage**
 
-Time spent: **#** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/uncovered-smoggy-venus
 
